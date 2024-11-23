@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: family
-description: members of the lab or group
+description: A short introduction of my family members
 nav: false
 nav_order: 6
 
