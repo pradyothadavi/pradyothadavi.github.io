@@ -2,11 +2,11 @@
 Sync Impact Report:
 Version change: new → 1.0.0 (initial constitution)
 Modified principles: none (initial version)
-Added sections: Performance-First, Design Excellence, Content Quality, Build Optimization, Development Workflow  
+Added sections: Performance-First, Design Excellence, Content Quality, Build Optimization, Development Workflow
 Removed sections: none
-Templates requiring updates: 
+Templates requiring updates:
   ✅ Updated plan-template.md constitution check section
-  ✅ Updated spec-template.md to align with performance requirements  
+  ✅ Updated spec-template.md to align with performance requirements
   ✅ Updated tasks-template.md for Jekyll-specific task categorization
 Follow-up TODOs: none
 -->
@@ -19,31 +19,31 @@ Follow-up TODOs: none
 
 All features and content MUST maintain optimal performance metrics. Website MUST load in under 3 seconds on 3G connections. Images MUST be optimized and served in modern formats (WebP/AVIF with fallbacks). CSS/JS MUST be minified and critical resources inlined. Lighthouse performance score MUST remain above 90.
 
-*Rationale: Personal websites represent professional capabilities; slow sites reflect poorly on technical competence and user experience.*
+_Rationale: Personal websites represent professional capabilities; slow sites reflect poorly on technical competence and user experience._
 
 ### II. Design Excellence
 
 Visual design MUST prioritize clean, minimal aesthetics with excellent typography and whitespace usage. Interactive elements MUST provide immediate feedback. Color schemes MUST maintain WCAG AA contrast standards. Layout MUST be responsive across all device sizes with mobile-first approach.
 
-*Rationale: A sleek design creates strong first impressions and demonstrates attention to detail valued in professional contexts.*
+_Rationale: A sleek design creates strong first impressions and demonstrates attention to detail valued in professional contexts._
 
 ### III. Content Quality
 
 All content MUST be professionally written, well-structured, and regularly updated. Code examples MUST be tested and functional. Publications and project descriptions MUST be accurate and current. Grammar and spelling MUST be error-free.
 
-*Rationale: Content quality directly reflects professional competence and attention to detail.*
+_Rationale: Content quality directly reflects professional competence and attention to detail._
 
 ### IV. Build Optimization
 
 Jekyll build process MUST be optimized for speed and efficiency. Unused CSS MUST be purged automatically. Assets MUST be compressed and cached effectively. Build pipeline MUST include automated optimization steps.
 
-*Rationale: Efficient build processes enable rapid iteration and ensure consistent optimization across deployments.*
+_Rationale: Efficient build processes enable rapid iteration and ensure consistent optimization across deployments._
 
 ### V. Accessibility & Standards
 
 Website MUST comply with WCAG 2.1 AA accessibility standards. Semantic HTML MUST be used throughout. SEO optimization MUST be implemented with proper meta tags, structured data, and sitemap generation.
 
-*Rationale: Accessibility demonstrates inclusive design principles while SEO ensures professional discoverability.*
+_Rationale: Accessibility demonstrates inclusive design principles while SEO ensures professional discoverability._
 
 ## Performance Standards
 

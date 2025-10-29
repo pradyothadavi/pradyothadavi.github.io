@@ -29,26 +29,30 @@
 
 ## Constitution Check
 
-*GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
+_GATE: Must pass before Phase 0 research. Re-check after Phase 1 design._
 
 **Performance Requirements**:
+
 - [ ] Feature maintains Lighthouse performance score >90
-- [ ] Load time impact <1s additional delay  
+- [ ] Load time impact <1s additional delay
 - [ ] Asset optimization plan documented (images, CSS, JS)
 - [ ] Build performance impact assessed
 
 **Design Standards**:
+
 - [ ] Mobile-first responsive design planned
 - [ ] WCAG AA accessibility compliance verified
 - [ ] Visual design aligns with clean/minimal aesthetic
 - [ ] Typography and whitespace usage optimized
 
 **Content Quality**:
+
 - [ ] Professional writing standards maintained
 - [ ] Accurate technical documentation provided
 - [ ] SEO optimization implemented (meta tags, structured data)
 
 **Build Integration**:
+
 - [ ] Jekyll build process compatibility confirmed
 - [ ] Asset optimization pipeline integration planned
 - [ ] GitHub Actions deployment compatibility verified
@@ -68,6 +72,7 @@ specs/[###-feature]/
 ```
 
 ### Source Code (repository root)
+
 <!--
   ACTION REQUIRED: Replace the placeholder tree below with the concrete layout
   for this feature. Delete unused options and expand the chosen structure with
@@ -118,7 +123,7 @@ directories captured above]
 
 > **Fill ONLY if Constitution Check has violations that must be justified**
 
-| Violation | Why Needed | Simpler Alternative Rejected Because |
-|-----------|------------|-------------------------------------|
-| [e.g., 4th project] | [current need] | [why 3 projects insufficient] |
-| [e.g., Repository pattern] | [specific problem] | [why direct DB access insufficient] |
+| Violation                  | Why Needed         | Simpler Alternative Rejected Because |
+| -------------------------- | ------------------ | ------------------------------------ |
+| [e.g., 4th project]        | [current need]     | [why 3 projects insufficient]        |
+| [e.g., Repository pattern] | [specific problem] | [why direct DB access insufficient]  |

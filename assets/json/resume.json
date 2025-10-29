@@ -24,7 +24,11 @@
       "startDate": "2022-04-01",
       "endDate": "",
       "summary": "Responsible for the Risk&Fraud, Flipkart-Axis Cobranded Card engineering charter in FPG BU",
-      "highlights": ["Leading a team of 17 talented engineers","Cost optimisation through engineering excellence","Institutionalised a robust oncall process"]
+      "highlights": [
+        "Leading a team of 17 talented engineers",
+        "Cost optimisation through engineering excellence",
+        "Institutionalised a robust oncall process"
+      ]
     },
     {
       "name": "Flipkart Internet Pvt Ltd",
@@ -34,7 +38,7 @@
       "startDate": "2020-04-01",
       "endDate": "2022-03-31",
       "summary": "Designed and implemented underwriting systems for Fintech Products like Flipkart Pay Later and EMI",
-      "highlights": ["Extraction of insights from SMS data","Platforms to create Joint Risk Models for credit assessment"]
+      "highlights": ["Extraction of insights from SMS data", "Platforms to create Joint Risk Models for credit assessment"]
     },
     {
       "name": "Flipkart Internet Pvt Ltd",
@@ -44,7 +48,11 @@
       "startDate": "2018-01-01",
       "endDate": "2020-03-31",
       "summary": "Scaling Fintech systems for the flagship sale event Big Billion Days",
-      "highlights": ["Product Page: Load Test for 15 mins: 94K QPS, Production Peak: 53K QPS","Payment Options: Load Test for 15 mins: 17K RPS, Production Peak: 6K RPS","Payment Processing: Load Test for 15 mins: 450 TPS, Production Peak: 14 TPS"]
+      "highlights": [
+        "Product Page: Load Test for 15 mins: 94K QPS, Production Peak: 53K QPS",
+        "Payment Options: Load Test for 15 mins: 17K RPS, Production Peak: 6K RPS",
+        "Payment Processing: Load Test for 15 mins: 450 TPS, Production Peak: 14 TPS"
+      ]
     },
     {
       "name": "Flipkart Internet Pvt Ltd",
@@ -54,7 +62,11 @@
       "startDate": "2016-01-01",
       "endDate": "2017-12-31",
       "summary": "Founding tech member of the Fintech team initiated to solve affordability problems for next billion users",
-      "highlights": ["Worked with the product team in conceptualizing and implementing No Cost EMI, Debit Card EMI and Flipkart Pay Later","Nearly 7.4 million Indians are empowered to make high-value purchases through EMI using their Debit Card","Worked with banking partners and helped shape their systems and APIs to realize Debit Card EMI product"]
+      "highlights": [
+        "Worked with the product team in conceptualizing and implementing No Cost EMI, Debit Card EMI and Flipkart Pay Later",
+        "Nearly 7.4 million Indians are empowered to make high-value purchases through EMI using their Debit Card",
+        "Worked with banking partners and helped shape their systems and APIs to realize Debit Card EMI product"
+      ]
     },
     {
       "name": "Flipkart Internet Pvt Ltd",
@@ -64,9 +76,12 @@
       "startDate": "2014-06-01",
       "endDate": "2015-12-31",
       "summary": "Got an understanding of the payment eco-system. What does it take to process a e-commerce payment transactions and the players involved.",
-      "highlights": ["Improved the transaction success rate by 22% for debit card payment instrument","Improved overall payment success rate by 3.6% using data by enhancing the PG routing logic","Prompted customers to use alternate payment instrument by auto-detection of downtime for an issuing bank."]
+      "highlights": [
+        "Improved the transaction success rate by 22% for debit card payment instrument",
+        "Improved overall payment success rate by 3.6% using data by enhancing the PG routing logic",
+        "Prompted customers to use alternate payment instrument by auto-detection of downtime for an issuing bank."
+      ]
     }
-
   ],
   "education": [
     {
@@ -147,35 +162,22 @@
     {
       "name": "Distributed System Design",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Distributed Caching",
-        "Data Sharing"
-      ]
+      "keywords": ["Distributed Caching", "Data Sharing"]
     },
     {
       "name": "Data Structures",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Bloom filter",
-        "Merkle Tree",
-        "Prolly Tree"
-      ]
+      "keywords": ["Bloom filter", "Merkle Tree", "Prolly Tree"]
     },
     {
       "name": "Graphs",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Janus Graph",
-        "Gremlin"
-      ]
+      "keywords": ["Janus Graph", "Gremlin"]
     },
     {
       "name": "Blockchain",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Hyperledger Fabric",
-        "Solidity"
-      ]
+      "keywords": ["Hyperledger Fabric", "Solidity"]
     }
   ]
 }
