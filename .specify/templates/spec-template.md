@@ -106,6 +106,13 @@
 - **DR-004**: Interactive elements MUST provide immediate user feedback
 - **DR-005**: Color contrast MUST meet WCAG AA standards
 
+### Template Maintenance Requirements
+
+- **TR-001**: Feature MUST be compatible with al-folio template structure
+- **TR-002**: Custom modifications MUST be documented and upgrade-safe
+- **TR-003**: Feature MUST not conflict with template's core functionality
+- **TR-004**: Integration MUST preserve template's update pathway
+
 _Example of marking unclear requirements:_
 
 - **FR-006**: System MUST authenticate users via [NEEDS CLARIFICATION: auth method not specified - email/password, SSO, OAuth?]

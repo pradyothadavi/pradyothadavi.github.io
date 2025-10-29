@@ -74,6 +74,23 @@ Jekyll-specific foundational tasks:
 
 ---
 
+## Phase 2.5: Template Maintenance (When Applicable)
+
+**Purpose**: al-folio template updates and customization preservation
+
+**⚠️ NOTE**: This phase is only needed when incorporating template updates or ensuring template compatibility
+
+- [ ] T012 [P] Check al-folio template for new releases and updates
+- [ ] T013 [P] Document current customizations and modifications
+- [ ] T014 Evaluate template updates for compatibility with existing customizations
+- [ ] T015 [P] Test template updates in isolated branch
+- [ ] T016 Merge template updates while preserving customizations
+- [ ] T017 Validate all functionality after template integration
+
+**Checkpoint**: Template maintenance complete - proceed with user story implementation
+
+---
+
 ## Phase 3: User Story 1 - [Title] (Priority: P1) 🎯 MVP
 
 **Goal**: [Brief description of what this story delivers]
@@ -160,6 +177,9 @@ Jekyll-specific foundational tasks:
 - [ ] TXXX Build performance optimization (Jekyll build time <30s)
 - [ ] TXXX Cross-browser compatibility testing
 - [ ] TXXX Final design review and visual consistency check
+- [ ] TXXX [P] al-folio template version compatibility verification
+- [ ] TXXX Template customization documentation update
+- [ ] TXXX Template upgrade pathway validation
 
 ---
 

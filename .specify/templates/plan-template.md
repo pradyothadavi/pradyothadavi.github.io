@@ -57,6 +57,13 @@ _GATE: Must pass before Phase 0 research. Re-check after Phase 1 design._
 - [ ] Asset optimization pipeline integration planned
 - [ ] GitHub Actions deployment compatibility verified
 
+**Template Maintenance**:
+
+- [ ] al-folio template compatibility verified for current version
+- [ ] Custom modifications documented and upgrade-safe
+- [ ] Template feature integration impact assessed
+- [ ] Security implications of template changes reviewed
+
 ## Project Structure
 
 ### Documentation (this feature)

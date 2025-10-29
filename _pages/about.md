@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi 👋
 
-I am a software engineer and engineering leader with a keen interest in game theory, graphs, and blockchain technology.
+I am a software engineer and engineering leader with a keen interest in game theory and economics.
 
-My [career](/cv), spanning a decade, has been with [Flipkart](https://www.flipkartcareers.com/#!/) in the Fintech and Payments domain. Currently, I am an Engineering Manager responsible for the Risk and Fraud engineering team.
+My [career](/cv), spanning a decade, has been with [Flipkart](https://www.flipkartcareers.com/#!/) in the Fintech and Payments domain. Currently, I am an Senior Engineering Manager responsible for the Affordability, Risk and Fraud engineering team.
 
-I hold a Master's degree (M.Tech in Information Technology, 2014) from [IIIT Bangalore](https://www.iiitb.ac.in/). I completed my schooling in [Dandeli](https://en.wikipedia.org/wiki/Dandeli), a small town nested in the Western Ghats. While I am a native of [Lingasugur](https://en.wikipedia.org/wiki/Lingasugur), Bengaluru has been my second home since 2007.
+I hold a Master's degree (M.Tech in Information Technology, 2014) from [IIIT Bangalore](https://www.iiitb.ac.in/). I completed my schooling in [Dandeli](https://en.wikipedia.org/wiki/Dandeli), a small town nested in the Western Ghats. While I am a native of Kachapur village in Raichur District, [Bengaluru](https://en.wikipedia.org/wiki/Bengaluru) has been my second home since 2007.
